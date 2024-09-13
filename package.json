@@ -37,7 +37,7 @@
     "jsdom-global": "^3.0.2",
     "mocha": "^7.1.2",
     "polyfill-crypto.getrandomvalues": "^1.0.0",
-    "sinon": "^7.2.7"
+    "sinon": "^19.0.0"
   },
   "dependencies": {
     "bip39": "^2.4.0",
